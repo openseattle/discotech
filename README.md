@@ -1,6 +1,6 @@
 
 # Seattle DiscoTech
-Discover technology that supports civic engagement & addresses local issues in Seattle, WA.
+**Disco**ver **tech**nology that supports civic engagement & addresses local issues in Seattle, WA.
 
 - June 6, 9 a.m. to 5 p.m.
 - At City Hall in the Bertha Knight Landes Room

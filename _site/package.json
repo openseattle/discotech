@@ -1,0 +1,19 @@
+{
+  "name": "discotech",
+  "description": "",
+  "version": "0.0.0",
+  "repository": {
+    "url": "git://github.com/sethvincent/discotech.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "bundle-css": "sheetify assets/deps.css > assets/bundle.css",
+    "start": "jekyll serve -w"
+  },
+  "dependencies": {
+    "normalize.css": "^3.0.3"
+  },
+  "devDependencies": {
+    "sheetify": "^2.0.0"
+  }
+}

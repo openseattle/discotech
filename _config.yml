@@ -1,0 +1,6 @@
+title: "Seattle DiscoTech"
+description: "Discover technology that supports civic engagement & addresses local issues in Seattle, WA."
+permalink: /:title
+baseurl: ''
+markdown: redcarpet
+exclude: [node_modules, tmp]

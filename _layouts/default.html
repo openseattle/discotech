@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{% if page.title %}{{ page.title }} ~ {{site.title}}{% else %}{{site.title}}{% endif %}</title>
+  <meta name="description" content="{% if page.description || post.description %}{{ page.description || post.description }}{% else %}{{site.description}}{% endif %}">
+  <meta name="viewport" content="initial-scale=1.0, width=device-width">
+  <!--<link rel="shortcut icon" href="/favicon.ico" />-->
+  <link href='http://fonts.googleapis.com/css?family=Lora:400,400italic|Source+Code+Pro:300,400,700' rel='stylesheet' type='text/css'>
+  <link href="{{ site.baseurl }}/assets/bundle.css" rel="stylesheet">
+  <link href="{{ site.baseurl }}/assets/style.css" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <h1>{{site.title}}</h1>
+  </header>
+
+  <main role="main">
+    {{ content }}
+  </main>
+  
+  <footer>
+  </footer>
+</body>
+</html>

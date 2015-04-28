@@ -72,4 +72,7 @@ Sign up for the Code for Seattle newsletter to receive announcements about vario
 
 {% include newsletter.html %}
 
+## Code of Conduct
+
+Please read the Code for Seattle code of conduct: http://codeforseattle.org/code-of-conduct/
 

@@ -18,6 +18,7 @@ slug: home
 
 {% include newsletter.html %}
 </div>
+
 ---
 
 ## What is a DiscoTech?

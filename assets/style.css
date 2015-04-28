@@ -1,0 +1,83 @@
+html,
+body,
+input,
+button,
+select,
+textarea {
+  font: 20px/1.5 "Source Sans Pro", Helvetica, arial, sans-serif;
+  color: #444;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+  font-weight: 300;
+}
+
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+hr {
+  border: 0px;
+  border-top: 1px solid #fafaf8;
+  margin-bottom: 30px;
+}
+
+.banner {
+  background-size: cover;
+  background-position: center;
+}
+
+.banner.header {
+  background-image: url(bg.gif);
+  height: 200px;
+  padding-top: 20px;
+}
+
+@media (min-width: 460px) {
+  .banner.header {
+    padding-top: 60px;
+  }
+}
+
+.banner.header h1 {
+  margin-top: 0px;
+  font-size: 50px;
+  color: #fff;
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 0px;
+  line-height: 1;
+}
+
+.banner.header h3 {
+  margin-top: 5px;
+  font-size: 20px;
+  font-weight: 500;
+  color: #fff;
+  text-align: center;
+}
+
+.home h1 {
+  text-align: center;
+  margin-bottom: 0px;
+  font-weight: 500;
+  font-size: 40px;
+}
+
+.home blockquote {
+  font-family: Lora, Georgia, serif;
+  font-style: italic;
+  text-align: center;
+  margin: 0px;
+}
+
+.home blockquote p {
+  margin: 0px;
+}
+
+.container {
+  padding: 10px;
+}

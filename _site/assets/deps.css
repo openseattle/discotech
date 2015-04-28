@@ -1,1 +1,7 @@
 @import "normalize.css";
+@import "basscss-grid";
+@import "csskit";
+
+:root {
+  --container-width: 800px;
+}

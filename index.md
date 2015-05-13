@@ -39,7 +39,7 @@ Read more about the event format here: https://www.alliedmedia.org/ddjc/discotec
 
 Seattle has many hackathons, and previously our event for the National Day of Civic Hacking has been a hackathon. This year our goal is to hold an event that's more inclusive, has more activities available for those who don't write code, and is more inviting to people with the myriad of skills beyond writing code that is needed for supporting and improving civic engagement.
 
-## Civic tech project fair
+## Civic Tech Fair
 
 A civic tech fair featuring projects & organizions that seek to improve local civic engagement. In the coming weeks we'll announce the projects!
 

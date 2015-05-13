@@ -14,7 +14,7 @@ slug: home
 
 <p style="font-size:110%;">Part of the <a href="http://hackforchange.org/">National Day of Civic Hacking</a>, the Seattle DiscoTech is a free event held on June 6 at Seattle City Hall, and is organized by <a href="http://codeforseattle.org">Code for Seattle</a>.</p>
 
-<p><b>Join the Code for Seattle newsletter to get notified when registration opens:</b></p>
+<p><b>Sign up for the event right now:</b></p>
 
 {% include newsletter.html %}
 </div>
@@ -68,7 +68,7 @@ Get involved with the event! You can help with promotion, inviting projects for 
 
 ## Join us!
 
-Sign up for the Code for Seattle newsletter to receive announcements about various event activities and to be notified when registration opens:
+<p><b>Sign up for the event right now:</b></p>
 
 {% include newsletter.html %}
 

@@ -74,5 +74,5 @@ Get involved with the event! You can help with promotion, inviting projects for 
 
 ## Code of Conduct
 
-Please read the Code for Seattle code of conduct: http://codeforseattle.org/code-of-conduct/
+Please read the Code for Seattle code of conduct: [codeforseattle.org/code-of-conduct](http://codeforseattle.org/code-of-conduct/)
 

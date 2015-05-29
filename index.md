@@ -39,21 +39,40 @@ Read more about the event format here: https://www.alliedmedia.org/ddjc/discotec
 
 Seattle has many hackathons, and previously our event for the National Day of Civic Hacking has been a hackathon. This year our goal is to hold an event that's more inclusive, has more activities available for those who don't write code, and is more inviting to people with the myriad of skills beyond writing code that is needed for supporting and improving civic engagement.
 
+## Schedule
+
+- **10:30 a.m.** – opening speaker (Michael Mattmiller)
+- **11:00 a.m.** – workshops
+- **noon** – lunch 
+- **1:00 p.m.-3:00 p.m.** – civic tech fair 
+- **1:00 p.m.** – workshops
+- **2:00 p.m.** – workshops
+- **3:00 p.m.** – happy hour / civic tech project fair
+- **3:30 p.m.** – closing speaker (Candace Faber)
+
 ## Civic tech project fair
 
 A civic tech fair featuring projects & organizions that seek to improve local civic engagement. In the coming weeks we'll announce the projects!
+
+If you're interested in having a table for your project or organization, that can happen!
 
 ### Apply to have a table at the project fair
 
 <a href="http://goo.gl/forms/f2XqYgjVDU" class="button">Apply for a project table</a>
 
-## Panel discussions
+## Workshops
 
-A series of panel discussions for learning about civic technology. **More details soon!**
+### NodeSchool
 
-## Activities
+Learn the basics of JavaScript and Node.js!
 
-An assortment of activities for learning about javascript, open data, & other topics. **More details soon!**
+### Introduction to Socrata's open data API
+
+Learn about building applications using the API from Socrata.
+
+### What do you want from Seattle's open data portal?
+
+Talk with the city's open data manager Bruce Blood about what data.seattle.gov offers and what you'd like to see on our city's open data portal.
 
 ---
 

@@ -14,12 +14,18 @@ slug: home
 
 <p style="font-size:110%;">Part of the <a href="http://hackforchange.org/">National Day of Civic Hacking</a>, the Seattle DiscoTech is a free event held on June 6 at Seattle City Hall, and is organized by <a href="http://codeforseattle.org">Code for Seattle</a>.</p>
 
-<p><b>Join the Code for Seattle newsletter to get notified when registration opens:</b></p>
+<p><b>Sign up for the event right now:</b></p>
 
 {% include newsletter.html %}
 </div>
 
 ---
+
+## Information
+
+- June 6th, 10:30 a.m. to 4 p.m.
+- At City Hall in the Bertha Knight Landes Room
+- RSVP: [meetup.com/Code-for-Seattle/events/222381787](http://www.meetup.com/Code-for-Seattle/events/222381787/)
 
 ## What is a DiscoTech?
 
@@ -50,7 +56,7 @@ Seattle has many hackathons, and previously our event for the National Day of Ci
 - **3:00 p.m.** – happy hour / civic tech project fair
 - **3:30 p.m.** – closing speaker (Candace Faber)
 
-## Civic tech project fair
+<h2 id="civic-tech-fair">Civic Tech Fair</h2>
 
 A civic tech fair featuring projects & organizions that seek to improve local civic engagement. In the coming weeks we'll announce the projects!
 
@@ -87,11 +93,11 @@ Get involved with the event! You can help with promotion, inviting projects for 
 
 ## Join us!
 
-Sign up for the Code for Seattle newsletter to receive announcements about various event activities and to be notified when registration opens:
+<p><b>Sign up for the event right now:</b></p>
 
 {% include newsletter.html %}
 
 ## Code of Conduct
 
-Please read the Code for Seattle code of conduct: http://codeforseattle.org/code-of-conduct/
+Please read the Code for Seattle code of conduct: [codeforseattle.org/code-of-conduct](http://codeforseattle.org/code-of-conduct/)
 

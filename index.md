@@ -38,7 +38,6 @@ Read more about the event format here: https://www.alliedmedia.org/ddjc/discotec
 ### The Seattle DiscoTech will include:
 
 - a civic tech fair featuring projects & organizions that seek to improve local civic engagement
-- a series of panel discussions for learning about civic technology
 - an assortment of activities for learning about javascript, open data, & other topics
 
 ### Why not a hackathon?

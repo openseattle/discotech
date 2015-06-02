@@ -61,6 +61,18 @@ A civic tech fair featuring projects & organizions that seek to improve local ci
 
 If you're interested in having a table for your project or organization, that can happen!
 
+### Projects & organizations at the fair:
+
+- [Seattle in Progress](http://seattleinprogress.com)
+- [HeyDuwamish.org](http://HeyDuwamish.org)
+- [City of Seattle Citizens Technology Advisory Board](http://www.seattle.gov/community-technology-advisory-board)
+- [HereNow Project](http://www.here-now.us/)
+- [Third Place Technologies](http://thirdplacetechnologies.com)
+- [Access Map ](http://www.accessmapseattle.com/)
+- [Upgrade Seattle](http://www.upgradeseattle.com/)
+- [Big-Brained Superheros](http://www.bigbrainedsuperheroes.org/)
+- [SEANetMap](https://github.com/codeforseattle/seanetmap)
+
 ### Apply to have a table at the project fair
 
 <a href="http://goo.gl/forms/f2XqYgjVDU" class="button">Apply for a project table</a>

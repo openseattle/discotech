@@ -47,13 +47,13 @@ Seattle has many hackathons, and previously our event for the National Day of Ci
 <h2 id="schedule">Schedule</h2>
 
 - **10:30 a.m.** – opening speaker: Michael Mattmiller, CTO of City of Seattle
-- **11:00 a.m.** – workshops
+- **11:00 a.m.** – workshops: Open Data portal, Intellectual property & civic tech
 - **noon** – lunch 
 - **1:00 p.m.-3:00 p.m.** – civic tech fair 
-- **1:00 p.m.** – workshops
-- **2:00 p.m.** – workshops
+- **1:00 p.m.** – workshops: Upgrade Seattle, NodeSchool, Privacy & civic tech
+- **2:00 p.m.** – workshops: City services discussion, SeattleWiki, Socrata API
 - **3:00 p.m.** – happy hour / civic tech project fair
-- **3:30 p.m.** – closing speaker: Candace Faber
+- **3:30 p.m.** – closing speaker: Candace Faber, organizer of Hack the Commute
 
 <h2 id="civic-tech-fair">Civic Tech Fair</h2>
 

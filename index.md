@@ -73,9 +73,6 @@ If you're interested in having a table for your project or organization, that ca
 - [Big-Brained Superheros](http://www.bigbrainedsuperheroes.org/)
 - [SEANetMap](https://github.com/codeforseattle/seanetmap)
 
-### Apply to have a table at the project fair
-
-<a href="http://goo.gl/forms/f2XqYgjVDU" class="button">Apply for a project table</a>
 
 <h2 id="workshops">Workshops</h2>
 
@@ -114,14 +111,6 @@ LocalWiki is a grassroots effort to collect, share, and open the world's local k
 
 ---
 
-
-## Volunteer
-
-Get involved with the event! You can help with promotion, inviting projects for the fair, staffing the event's registration booth, giving this website a more pleasant design, planning the food, and more.
-
-<a href="http://goo.gl/forms/U15lQ8BTXL" class="button">Volunteer for the DiscoTech</a>
-
----
 
 ## Join us!
 

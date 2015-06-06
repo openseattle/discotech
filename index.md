@@ -47,7 +47,7 @@ Seattle has many hackathons, and previously our event for the National Day of Ci
 <h2 id="schedule">Schedule</h2>
 
 - **10:30 a.m.** – opening speaker: Michael Mattmiller, CTO of City of Seattle
-- **11:00 a.m.** – workshops: Open Data portal, Intellectual property & civic tech
+- **11:00 a.m.** – workshops: Open Data portal, Tableau, Future of Code for Seattle
 - **noon** – lunch 
 - **1:00 p.m.-3:00 p.m.** – civic tech fair 
 - **1:00 p.m.** – workshops: Upgrade Seattle, NodeSchool, Privacy & civic tech
